@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="3" lineNum="6" pc="268436757" symbol="initialize"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="3" lineNum="7" pc="268436761" symbol="initialize"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="4" lineNum="11" pc="268436780" symbol="onLayout"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="4" lineNum="12" pc="268436784" symbol="onLayout"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="5" lineNum="18" pc="268436822" symbol="onShow"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="6" lineNum="22" pc="268436827" symbol="onUpdate"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="6" lineNum="23" pc="268436831" symbol="onUpdate"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="6" lineNum="24" pc="268436846" symbol="onUpdate"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="6" lineNum="25" pc="268436874" symbol="onUpdate"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="6" lineNum="26" pc="268436886" symbol="onUpdate"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="6" lineNum="28" pc="268436917" symbol="onUpdate"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="6" lineNum="29" pc="268436945" symbol="onUpdate"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="6" lineNum="30" pc="268436957" symbol="onUpdate"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="6" lineNum="32" pc="268436985" symbol="onUpdate"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="6" lineNum="51" pc="268437083" symbol="onUpdate"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="6" lineNum="34" pc="268437089" symbol="onUpdate"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="6" lineNum="35" pc="268437153" symbol="onUpdate"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="6" lineNum="36" pc="268437282" symbol="onUpdate"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="6" lineNum="38" pc="268437285" symbol="onUpdate"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="6" lineNum="39" pc="268437349" symbol="onUpdate"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="6" lineNum="40" pc="268437478" symbol="onUpdate"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="6" lineNum="42" pc="268437481" symbol="onUpdate"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="6" lineNum="43" pc="268437545" symbol="onUpdate"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="6" lineNum="44" pc="268437674" symbol="onUpdate"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="6" lineNum="46" pc="268437677" symbol="onUpdate"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="6" lineNum="47" pc="268437741" symbol="onUpdate"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="6" lineNum="48" pc="268437870" symbol="onUpdate"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="7" lineNum="59" pc="268437877" symbol="onHide"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="8" lineNum="63" pc="268437882" symbol="drawGraph"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="8" lineNum="64" pc="268437886" symbol="drawGraph"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="8" lineNum="65" pc="268437934" symbol="drawGraph"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="8" lineNum="66" pc="268437982" symbol="drawGraph"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="8" lineNum="67" pc="268437989" symbol="drawGraph"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="8" lineNum="68" pc="268437993" symbol="drawGraph"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="8" lineNum="69" pc="268438046" symbol="drawGraph"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="8" lineNum="70" pc="268438117" symbol="drawGraph"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="8" lineNum="71" pc="268438188" symbol="drawGraph"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="8" lineNum="72" pc="268438215" symbol="drawGraph"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="8" lineNum="73" pc="268438228" symbol="drawGraph"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="8" lineNum="74" pc="268438235" symbol="drawGraph"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="8" lineNum="76" pc="268438241" symbol="drawGraph"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="8" lineNum="77" pc="268438270" symbol="drawGraph"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="8" lineNum="78" pc="268438276" symbol="drawGraph"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="8" lineNum="79" pc="268438286" symbol="drawGraph"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="8" lineNum="80" pc="268438296" symbol="drawGraph"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="8" lineNum="82" pc="268438303" symbol="drawGraph"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="8" lineNum="83" pc="268438358" symbol="drawGraph"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="8" lineNum="84" pc="268438435" symbol="drawGraph"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="8" lineNum="87" pc="268438448" symbol="drawGraph"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="8" lineNum="88" pc="268438463" symbol="drawGraph"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="8" lineNum="91" pc="268438502" symbol="drawGraph"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="8" lineNum="92" pc="268438628" symbol="drawGraph"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="8" lineNum="93" pc="268438760" symbol="drawGraph"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="8" lineNum="94" pc="268438871" symbol="drawGraph"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="8" lineNum="95" pc="268438886" symbol="drawGraph"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="8" lineNum="103" pc="268439018" symbol="drawGraph"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="9" lineNum="106" pc="268439115" symbol="getHRIterator"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="9" lineNum="108" pc="268439119" symbol="getHRIterator"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="9" lineNum="109" pc="268439162" symbol="getHRIterator"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="9" lineNum="111" pc="268439195" symbol="getHRIterator"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="10" lineNum="113" pc="268439198" symbol="getELIterator"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="10" lineNum="115" pc="268439202" symbol="getELIterator"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="10" lineNum="116" pc="268439245" symbol="getELIterator"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="10" lineNum="118" pc="268439278" symbol="getELIterator"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="11" lineNum="120" pc="268439281" symbol="getPRIterator"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="11" lineNum="122" pc="268439285" symbol="getPRIterator"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="11" lineNum="123" pc="268439328" symbol="getPRIterator"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="11" lineNum="125" pc="268439361" symbol="getPRIterator"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="12" lineNum="127" pc="268439364" symbol="getTPIterator"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="12" lineNum="129" pc="268439368" symbol="getTPIterator"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="12" lineNum="130" pc="268439411" symbol="getTPIterator"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetView.mc" id="12" lineNum="132" pc="268439444" symbol="getTPIterator"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorPages.mc" id="14" lineNum="6" pc="268439447" symbol="initialize"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorPages.mc" id="14" lineNum="7" pc="268439451" symbol="initialize"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorPages.mc" id="15" lineNum="10" pc="268439470" symbol="onPreviousPage"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorPages.mc" id="15" lineNum="11" pc="268439474" symbol="onPreviousPage"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorPages.mc" id="15" lineNum="12" pc="268439533" symbol="onPreviousPage"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorPages.mc" id="15" lineNum="13" pc="268439554" symbol="onPreviousPage"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorPages.mc" id="15" lineNum="14" pc="268439578" symbol="onPreviousPage"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorPages.mc" id="15" lineNum="15" pc="268439602" symbol="onPreviousPage"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorPages.mc" id="15" lineNum="16" pc="268439634" symbol="onPreviousPage"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorPages.mc" id="16" lineNum="19" pc="268439638" symbol="onNextPage"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorPages.mc" id="16" lineNum="20" pc="268439642" symbol="onNextPage"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorPages.mc" id="16" lineNum="21" pc="268439701" symbol="onNextPage"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorPages.mc" id="16" lineNum="22" pc="268439722" symbol="onNextPage"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorPages.mc" id="16" lineNum="23" pc="268439746" symbol="onNextPage"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorPages.mc" id="16" lineNum="24" pc="268439770" symbol="onNextPage"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorPages.mc" id="16" lineNum="25" pc="268439802" symbol="onNextPage"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorPages.mc" id="17" lineNum="28" pc="268439806" symbol="onSelect"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorPages.mc" id="17" lineNum="29" pc="268439810" symbol="onSelect"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorPages.mc" id="17" lineNum="30" pc="268439908" symbol="onSelect"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorPages.mc" id="17" lineNum="31" pc="268439942" symbol="onSelect"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorPages.mc" id="17" lineNum="32" pc="268439958" symbol="onSelect"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorPages.mc" id="18" lineNum="35" pc="268439962" symbol="onBack"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorPages.mc" id="18" lineNum="36" pc="268439966" symbol="onBack"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorPages.mc" id="18" lineNum="37" pc="268439980" symbol="onBack"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorPages.mc" id="18" lineNum="38" pc="268440001" symbol="onBack"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorPages.mc" id="18" lineNum="39" pc="268440029" symbol="onBack"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\MyServiceDelegate.mc" id="20" lineNum="29" pc="268435456" symbol="initialize"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\MyServiceDelegate.mc" id="20" lineNum="30" pc="268435460" symbol="initialize"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\MyServiceDelegate.mc" id="21" lineNum="34" pc="268435483" symbol="onTemporalEvent"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\MyServiceDelegate.mc" id="21" lineNum="40" pc="268435487" symbol="onTemporalEvent"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\MyServiceDelegate.mc" id="21" lineNum="41" pc="268435504" symbol="onTemporalEvent"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\MyServiceDelegate.mc" id="21" lineNum="42" pc="268435543" symbol="onTemporalEvent"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\MyServiceDelegate.mc" id="21" lineNum="46" pc="268435567" symbol="onTemporalEvent"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\MyServiceDelegate.mc" id="21" lineNum="47" pc="268435584" symbol="onTemporalEvent"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\MyServiceDelegate.mc" id="21" lineNum="48" pc="268435591" symbol="onTemporalEvent"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\MyServiceDelegate.mc" id="21" lineNum="49" pc="268435605" symbol="onTemporalEvent"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\MyServiceDelegate.mc" id="21" lineNum="51" pc="268435626" symbol="onTemporalEvent"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="23" lineNum="20" pc="268435659" symbol="initialize"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="23" lineNum="21" pc="268435663" symbol="initialize"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="24" lineNum="25" pc="268435682" symbol="onStart"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="24" lineNum="26" pc="268435686" symbol="onStart"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="24" lineNum="27" pc="268435769" symbol="onStart"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="25" lineNum="45" pc="268435906" symbol="onStop"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="25" lineNum="46" pc="268435910" symbol="onStop"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="25" lineNum="47" pc="268435952" symbol="onStop"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="26" lineNum="51" pc="268435995" symbol="getInitialView"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="26" lineNum="56" pc="268435999" symbol="getInitialView"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="26" lineNum="58" pc="268436022" symbol="getInitialView"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="26" lineNum="59" pc="268436045" symbol="getInitialView"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="26" lineNum="60" pc="268436094" symbol="getInitialView"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="26" lineNum="62" pc="268436120" symbol="getInitialView"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="26" lineNum="67" pc="268436143" symbol="getInitialView"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="27" lineNum="72" pc="268436211" symbol="onBackgroundData"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="27" lineNum="77" pc="268436215" symbol="onBackgroundData"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="27" lineNum="78" pc="268436246" symbol="onBackgroundData"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="27" lineNum="79" pc="268436277" symbol="onBackgroundData"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="27" lineNum="81" pc="268436309" symbol="onBackgroundData"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="27" lineNum="82" pc="268436328" symbol="onBackgroundData"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="27" lineNum="83" pc="268436347" symbol="onBackgroundData"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="27" lineNum="84" pc="268436386" symbol="onBackgroundData"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="27" lineNum="85" pc="268436436" symbol="onBackgroundData"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="27" lineNum="86" pc="268436446" symbol="onBackgroundData"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="27" lineNum="87" pc="268436487" symbol="onBackgroundData"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="28" lineNum="90" pc="268436506" symbol="getServiceDelegate"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="28" lineNum="92" pc="268436510" symbol="getServiceDelegate"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="28" lineNum="93" pc="268436529" symbol="getServiceDelegate"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="28" lineNum="94" pc="268436568" symbol="getServiceDelegate"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\SensorHistoryWidgetApp.mc" id="28" lineNum="95" pc="268436594" symbol="getServiceDelegate"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorEntree.mc" id="30" lineNum="6" pc="268440033" symbol="initialize"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorEntree.mc" id="30" lineNum="7" pc="268440037" symbol="initialize"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorEntree.mc" id="31" lineNum="10" pc="268440056" symbol="onSelect"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorEntree.mc" id="31" lineNum="11" pc="268440060" symbol="onSelect"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorEntree.mc" id="31" lineNum="12" pc="268440081" symbol="onSelect"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorEntree.mc" id="31" lineNum="13" pc="268440095" symbol="onSelect"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorEntree.mc" id="31" lineNum="14" pc="268440119" symbol="onSelect"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorEntree.mc" id="31" lineNum="15" pc="268440143" symbol="onSelect"/>
+<entry filename="D:\\git\\SensorHistoryWidget\\SensorHistoryWidget\\source\\BehaviorEntree.mc" id="31" lineNum="16" pc="268440175" symbol="onSelect"/>
+<entry filename="Rez" id="38" lineNum="21" pc="268440179" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8389781" module="true" symbol="SensorHistory"/>
+<entry field="true" id="16" symbol="bgdata"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="25" symbol="customFont"/>
+<entry id="29" method="true" symbol="getHRIterator"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8389619" method="true" symbol="onSelect"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="14" symbol="isEntered"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="19" symbol="OSDATA"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="26" method="true" symbol="MainLayout"/>
+<entry id="8389802" method="true" symbol="getElevationHistory"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="27" symbol="AppName"/>
+<entry field="true" id="18" symbol="OSCOUNTER"/>
+<entry id="11" object="true" symbol="MyServiceDelegate"/>
+<entry id="8389078" method="true" symbol="onNextPage"/>
+<entry id="8390146" module="true" symbol="Background"/>
+<entry id="9" object="true" symbol="SensorHistoryWidgetView"/>
+<entry field="true" id="24" symbol="LauncherIcon"/>
+<entry id="8389801" method="true" symbol="getPressureHistory"/>
+<entry id="8389081" method="true" symbol="onBack"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="15" symbol="counter"/>
+<entry id="8390170" method="true" symbol="onBackgroundData"/>
+<entry id="30" method="true" symbol="getELIterator"/>
+<entry id="10" object="true" symbol="BehaviorPages"/>
+<entry id="21" object="true" symbol="BehaviorEntree"/>
+<entry id="31" method="true" symbol="getPRIterator"/>
+<entry id="8390169" method="true" symbol="getServiceDelegate"/>
+<entry id="8390148" method="true" symbol="onTemporalEvent"/>
+<entry id="8389702" method="true" symbol="getHeartRateHistory"/>
+<entry id="23" module="true" symbol="Layouts"/>
+<entry id="8389079" method="true" symbol="onPreviousPage"/>
+<entry id="8390147" object="true" symbol="ServiceDelegate"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="12" symbol="globalvar"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="22" module="true" symbol="Menus"/>
+<entry field="true" id="13" symbol="globsettings"/>
+<entry id="8389800" method="true" symbol="getTemperatureHistory"/>
+<entry id="20" object="true" symbol="SensorHistoryWidgetApp"/>
+<entry id="28" method="true" symbol="drawGraph"/>
+<entry id="32" method="true" symbol="getTPIterator"/>
+<entry field="true" id="17" symbol="canDoBG"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436822" name="dc" stackId="1" startPc="268436780"/>
+<entry endPc="268437877" name="dc" stackId="1" startPc="268436827"/>
+<entry endPc="268438445" name="value" stackId="15" startPc="268438270"/>
+<entry endPc="268438489" name="j" stackId="16" startPc="268438463"/>
+<entry endPc="268438489" name="item" stackId="14" startPc="268438215"/>
+<entry endPc="268438502" name="i" stackId="13" startPc="268438215"/>
+<entry endPc="268439114" name="firstFound" stackId="12" startPc="268437886"/>
+<entry endPc="268439114" name="lastTime" stackId="10" startPc="268437886"/>
+<entry endPc="268439114" name="firstVal" stackId="11" startPc="268437886"/>
+<entry endPc="268439114" name="delta" stackId="17" startPc="268437886"/>
+<entry endPc="268439114" name="firstTime" stackId="9" startPc="268437886"/>
+<entry endPc="268439115" name="dc" stackId="1" startPc="268437882"/>
+<entry endPc="268439115" name="size" stackId="4" startPc="268437882"/>
+<entry endPc="268439115" name="iterator" stackId="2" startPc="268437882"/>
+<entry endPc="268439115" name="unit" stackId="7" startPc="268437882"/>
+<entry endPc="268439115" name="format" stackId="6" startPc="268437882"/>
+<entry endPc="268439115" name="ignore" stackId="8" startPc="268437882"/>
+<entry endPc="268439115" name="divisor" stackId="5" startPc="268437882"/>
+<entry endPc="268439115" name="coord" stackId="3" startPc="268437882"/>
+<entry endPc="268439637" name="view" stackId="1" startPc="268439474"/>
+<entry endPc="268439637" name="delegate" stackId="2" startPc="268439474"/>
+<entry endPc="268439805" name="view" stackId="1" startPc="268439642"/>
+<entry endPc="268439805" name="delegate" stackId="2" startPc="268439642"/>
+<entry endPc="268435658" name="now" stackId="1" startPc="268435487"/>
+<entry endPc="268435658" name="prev" stackId="3" startPc="268435487"/>
+<entry endPc="268435658" name="ts" stackId="2" startPc="268435487"/>
+<entry endPc="268435906" name="state" stackId="1" startPc="268435682"/>
+<entry endPc="268435995" name="state" stackId="1" startPc="268435906"/>
+<entry endPc="268436505" name="now" stackId="3" startPc="268436215"/>
+<entry endPc="268436505" name="ts" stackId="4" startPc="268436215"/>
+<entry endPc="268436505" name="test" stackId="2" startPc="268436215"/>
+<entry endPc="268436506" name="data" stackId="1" startPc="268436211"/>
+<entry endPc="268436631" name="now" stackId="1" startPc="268436510"/>
+<entry endPc="268436631" name="ts" stackId="2" startPc="268436510"/>
+<entry endPc="268440178" name="view" stackId="1" startPc="268440060"/>
+<entry endPc="268440178" name="delegate" stackId="2" startPc="268440060"/>
+<entry endPc="268440192" name="dc" stackId="1" startPc="268440179"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="SensorHistoryWidgetView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="SensorHistoryWidgetView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="SensorHistoryWidgetView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="SensorHistoryWidgetView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="SensorHistoryWidgetView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawGraph" parent="SensorHistoryWidgetView">
+<param id="dc"/>
+<param id="iterator"/>
+<param id="coord"/>
+<param id="size"/>
+<param id="divisor"/>
+<param id="format"/>
+<param id="unit"/>
+<param id="ignore"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getHRIterator" parent="SensorHistoryWidgetView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getELIterator" parent="SensorHistoryWidgetView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getPRIterator" parent="SensorHistoryWidgetView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getTPIterator" parent="SensorHistoryWidgetView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="BehaviorPages">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPreviousPage" parent="BehaviorPages">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextPage" parent="BehaviorPages">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="BehaviorPages">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onBack" parent="BehaviorPages">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MyServiceDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onTemporalEvent" parent="MyServiceDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="SensorHistoryWidgetApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="SensorHistoryWidgetApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="SensorHistoryWidgetApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="SensorHistoryWidgetApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onBackgroundData" parent="SensorHistoryWidgetApp">
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getServiceDelegate" parent="SensorHistoryWidgetApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="BehaviorEntree">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="BehaviorEntree">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="278" parentId="globals" symbolId="SensorHistoryWidgetApp" type="class"/>
+<dataEntry offset="365" parentId="globals" symbolId="MyServiceDelegate" type="class"/>
+<dataEntry offset="923" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="1002" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="1041" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="1072" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="1111" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="1142" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="1181" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="1220" parentId="globals" symbolId="SensorHistoryWidgetView" type="class"/>
+<dataEntry offset="1339" parentId="globals" symbolId="BehaviorEntree" type="class"/>
+<dataEntry offset="1394" parentId="globals" symbolId="BehaviorPages" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
